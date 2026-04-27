@@ -24,16 +24,15 @@ Temporarily disable loot-quality buff multipliers before opening supply crates.
 - [Compatibility](./toggle-loot-quality-buffs/compatibility.md)
 - [Changelog](./toggle-loot-quality-buffs/changelog.md)
 
+## Work-in-progress mods
+
+I am also working on additional ARK: Survival Ascended mods that are not publicly documented yet.
+
+Public documentation for those mods will be added here when they are ready.
+
 ## Common guides
 
 - [Installation](./common/installation.md)
 - [GameUserSettings.ini location](./common/config-location.md)
 - [Troubleshooting](./common/troubleshooting.md)
 - [Support](./common/support.md)
-
-## Work-in-progress mods
-
-The documentation for unreleased or not-yet-public mods is kept in separate branches until those mods are ready to be shown publicly.
-
-- `breed-range-tool`
-- `wild-title-wars`
