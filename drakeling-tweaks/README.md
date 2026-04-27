@@ -2,11 +2,18 @@
 
 **Drakeling Tweaks** adds configurable Drakeling adjustments without replacing or remapping the creature.
 
+## Overview
+
+This mod focuses on small, configurable Drakeling behavior adjustments while keeping the original creature intact.
+
+It is intended for servers or players who want more control over Drakeling XP behavior, ability cooldowns, Hoard Chest rewards, and shoulder pet sound spam without using a remap-heavy mod.
+
 ## Features
 
 - Configurable restoration of Gift of Knowledge stored XP from tamed and unclaimed creature kills.
 - Configurable cooldown percentages for Breath, Biome Boost, and Gift of Fortune.
-- Optional XP info display when stored XP is granted.
+- Optional buff info display when stored XP is granted.
+- Optional Hoard Chest disabling when stored XP is awarded.
 - Shoulder menu option to toggle all Drakeling vocal sounds on or off while carried.
 
 ## Behavior / Scope
@@ -14,17 +21,21 @@
 - Affects tamed and unclaimed creature kill XP only.
 - Wild creature kill XP remains unchanged.
 - Lightweight and narrowly scoped.
-
-## Compatibility
-
 - Does not replace or remap the Drakeling.
 - Works with existing and future Drakelings.
 
-## Documentation
+## Configuration
 
-- [Features](./features.md)
-- [Configuration](./configuration.md)
-- [Compatibility](./compatibility.md)
+See [Configuration](./configuration.md).
+
+## Known bugs
+
+- When the Drakeling is on the shoulder and muted, there is still one idle sound out of five that triggers from time to time.
+- Even when `DisableHoardChests` is set to `True`, the HUD may still indicate that XP and a Dragon Key will be awarded. This is only a visual message; no chest/key is actually granted. The message appears to be hardcoded and has not been removed without remapping the Drakeling.
+
+## Future features
+
+- Config to control the speed at which you equip/unequip the Drakeling from your hand.
 
 ## Changelog
 
