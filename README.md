@@ -16,6 +16,7 @@ This repository is used as a public wiki-style documentation hub. Release change
 I am currently working on additional ARK: Survival Ascended mods, including:
 
 - Breed Range Tool
+- Shhhhh Hush Tames
 - Wild Title Wars
 
 Public documentation for those mods will be added here when they are ready.
