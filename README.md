@@ -7,6 +7,7 @@ Public documentation for my ARK: Survival Ascended mods.
 ### Drakeling Tweaks
 Configurable Drakeling adjustments without replacing or remapping the creature.
 
+- [CurseForge page](https://www.curseforge.com/ark-survival-ascended/mods/drakeling-tweaks)
 - [Overview](./drakeling-tweaks/README.md)
 - [Features](./drakeling-tweaks/features.md)
 - [Configuration](./drakeling-tweaks/configuration.md)
@@ -16,6 +17,7 @@ Configurable Drakeling adjustments without replacing or remapping the creature.
 ### Toggle Loot Quality Buffs
 Toggle loot quality buffs on or off without removing the mod from your server.
 
+- [CurseForge page](https://www.curseforge.com/ark-survival-ascended/mods/toggle-loot-quality-buffs)
 - [Overview](./toggle-loot-quality-buffs/README.md)
 - [Features](./toggle-loot-quality-buffs/features.md)
 - [Configuration](./toggle-loot-quality-buffs/configuration.md)
