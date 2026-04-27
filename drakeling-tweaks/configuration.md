@@ -8,49 +8,52 @@ NonWildKillXPPercent=100
 BreathCooldownMultiplierPercent=100
 BiomeBoostCooldownMultiplierPercent=100
 GiftOfFortuneCooldownMultiplierPercent=100
-ShowXPInfo=true
+ShowBuffInfo=False
+DisableHoardChests=False
 ```
 
 ## Settings
 
 ### `NonWildKillXPPercent`
 
-Controls the percentage of stored XP granted from tamed and unclaimed creature kills.
+Controls how much stored XP is restored from tamed and unclaimed creature kill XP.
 
-- `100` = default/full value.
-- `0` = disabled.
-- Values above `100` increase the amount.
+- Values above `100` increase the restored stored XP above the current default amount.
+- `100` = current default restored XP.
+- `50` = half of the current restored XP.
+- `1` = 1% of the current restored XP.
+- `0` = current/default Wildcard value.
+- Values below `0` are capped to `0`.
 
 ### `BreathCooldownMultiplierPercent`
 
-Controls the Breath cooldown percentage.
-
-- `100` = default cooldown.
-- `50` = half cooldown.
-- `200` = double cooldown.
+Controls Breath cooldown as a percentage of its current default cooldown.
 
 ### `BiomeBoostCooldownMultiplierPercent`
 
-Controls the Biome Boost cooldown percentage.
-
-- `100` = default cooldown.
-- `50` = half cooldown.
-- `200` = double cooldown.
+Controls Biome Boost cooldown as a percentage of its current default cooldown.
 
 ### `GiftOfFortuneCooldownMultiplierPercent`
 
-Controls the Gift of Fortune cooldown percentage.
+Controls Gift of Fortune cooldown as a percentage of its current default cooldown.
 
-- `100` = default cooldown.
-- `50` = half cooldown.
-- `200` = double cooldown.
+## Cooldown notes
 
-### `ShowXPInfo`
+- Values above `100` increase the cooldown duration.
+- `200` = twice the current default cooldown.
+- `100` = current default cooldown.
+- `50` = half of the current cooldown.
+- `1` = 1% of the current cooldown.
+- `0` is not recommended unless you explicitly want effectively no cooldown.
+- Values below `0` are capped to `0`.
 
-Controls whether XP info is displayed when stored XP is granted.
+### `ShowBuffInfo`
 
-- `true` = show XP info.
-- `false` = hide XP info.
+When set to `True`, shows a 5-second info display whenever stored XP is earned from a tamed or unclaimed creature kill.
+
+### `DisableHoardChests`
+
+When set to `True`, no Hoard Chest will be granted when stored XP is awarded.
 
 ## Important update note
 
