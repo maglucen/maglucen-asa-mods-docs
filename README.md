@@ -1,4 +1,4 @@
-# Maglucen ASA Mods Documentation
+# ASA Mods Documentation
 
 Public documentation for my ARK: Survival Ascended mods.
 
@@ -15,7 +15,7 @@ Configurable Drakeling adjustments without replacing or remapping the creature.
 - [Changelog](./drakeling-tweaks/changelog.md)
 
 ### Toggle Loot Quality Buffs
-Toggle loot quality buffs on or off without removing the mod from your server.
+Temporarily disable loot-quality buff multipliers before opening supply crates.
 
 - [CurseForge page](https://www.curseforge.com/ark-survival-ascended/mods/toggle-loot-quality-buffs)
 - [Overview](./toggle-loot-quality-buffs/README.md)
