@@ -2,7 +2,9 @@
 
 **Toggle Loot Quality Buffs** lets you temporarily disable loot-quality buff multipliers before opening supply crates.
 
-This is especially useful when using a spyglass mod that previews crate contents. Normally, loot-quality buffs can cause the crate to be recalculated when opened, which means the item you saw beforehand may reroll into something different, and sometimes worse.
+## Overview
+
+This mod is especially useful when using a spyglass mod that previews crate contents. Normally, loot-quality buffs can cause the crate to be recalculated when opened, which means the item you saw beforehand may reroll into something different, and sometimes worse.
 
 With this mod, you can toggle those loot-quality buff multipliers off before opening the drop, so the crate is opened without those bonus modifiers being applied.
 
@@ -20,17 +22,23 @@ This is mainly for players who want control over whether to:
 - open the crate as currently previewed, without loot buff multipliers applied;
 - keep the normal buff behavior and accept the rerolled result.
 
+## Configuration
+
+See [Configuration](./configuration.md).
+
+## Compatibility / Scope
+
+- Affects loot-quality buff multipliers when opening supply crates.
+- Intended for preview workflows using tools such as spyglass mods.
+- Does not improve loot by itself.
+
+If another mod changes the same loot quality or supply crate systems, test the combination before using it on a live server.
+
 ## Important note
 
 **This mod does not improve loot by itself.**
 
 It simply gives you control over whether loot-quality buff multipliers should affect a crate when you open it.
-
-## Documentation
-
-- [Features](./features.md)
-- [Configuration](./configuration.md)
-- [Compatibility](./compatibility.md)
 
 ## Changelog
 
