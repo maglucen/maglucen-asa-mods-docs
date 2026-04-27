@@ -2,6 +2,8 @@
 
 Public documentation for my ARK: Survival Ascended mods.
 
+This repository is used as a public wiki-style documentation hub. Release changelogs are kept on each mod's CurseForge page.
+
 ## Public mods
 
 ### Drakeling Tweaks
@@ -12,7 +14,6 @@ Configurable Drakeling adjustments without replacing or remapping the creature.
 - [Features](./drakeling-tweaks/features.md)
 - [Configuration](./drakeling-tweaks/configuration.md)
 - [Compatibility](./drakeling-tweaks/compatibility.md)
-- [Changelog](./drakeling-tweaks/changelog.md)
 
 ### Toggle Loot Quality Buffs
 Temporarily disable loot-quality buff multipliers before opening supply crates.
@@ -22,11 +23,13 @@ Temporarily disable loot-quality buff multipliers before opening supply crates.
 - [Features](./toggle-loot-quality-buffs/features.md)
 - [Configuration](./toggle-loot-quality-buffs/configuration.md)
 - [Compatibility](./toggle-loot-quality-buffs/compatibility.md)
-- [Changelog](./toggle-loot-quality-buffs/changelog.md)
 
 ## Work-in-progress mods
 
-I am also working on additional ARK: Survival Ascended mods that are not publicly documented yet.
+I am currently working on additional ARK: Survival Ascended mods, including:
+
+- Breed Range Tool
+- Wild Title Wars
 
 Public documentation for those mods will be added here when they are ready.
 
