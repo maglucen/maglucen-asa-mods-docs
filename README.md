@@ -6,23 +6,10 @@ This repository is used as a public wiki-style documentation hub. Release change
 
 ## Public mods
 
-### Drakeling Tweaks
-Configurable Drakeling adjustments without replacing or remapping the creature.
-
-- [CurseForge page](https://www.curseforge.com/ark-survival-ascended/mods/drakeling-tweaks)
-- [Overview](./drakeling-tweaks/README.md)
-- [Features](./drakeling-tweaks/features.md)
-- [Configuration](./drakeling-tweaks/configuration.md)
-- [Compatibility](./drakeling-tweaks/compatibility.md)
-
-### Toggle Loot Quality Buffs
-Temporarily disable loot-quality buff multipliers before opening supply crates.
-
-- [CurseForge page](https://www.curseforge.com/ark-survival-ascended/mods/toggle-loot-quality-buffs)
-- [Overview](./toggle-loot-quality-buffs/README.md)
-- [Features](./toggle-loot-quality-buffs/features.md)
-- [Configuration](./toggle-loot-quality-buffs/configuration.md)
-- [Compatibility](./toggle-loot-quality-buffs/compatibility.md)
+| Mod | Description | Overview | Configuration | CurseForge |
+|---|---|---|---|---|
+| Drakeling Tweaks | Configurable Drakeling adjustments without replacing or remapping the creature. | [Overview](./drakeling-tweaks/README.md) | [Configuration](./drakeling-tweaks/configuration.md) | [CurseForge](https://www.curseforge.com/ark-survival-ascended/mods/drakeling-tweaks) |
+| Toggle Loot Quality Buffs | Temporarily disable loot-quality buff multipliers before opening supply crates. | [Overview](./toggle-loot-quality-buffs/README.md) | [Configuration](./toggle-loot-quality-buffs/configuration.md) | [CurseForge](https://www.curseforge.com/ark-survival-ascended/mods/toggle-loot-quality-buffs) |
 
 ## Work-in-progress mods
 
