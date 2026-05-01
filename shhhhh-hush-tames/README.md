@@ -38,6 +38,7 @@ See [Tracker](./tracker.md).
 
 The tracker is intended both as a development checklist and as a public coverage reference so players can see:
 
+- which creatures are still only planned
 - which creatures are already in the internal data table
 - which creatures are already included in the current CurseForge release
 - which sound categories are already isolated for each creature
