@@ -20,6 +20,8 @@ At the moment, the first public build is primarily being used to validate the pe
 
 The long-term goal is broader official creature coverage plus more granular control through per-class, per-creature, and area-based muting rules.
 
+The current public build covers **16 tracked creature entries** in the public coverage tracker.
+
 ## Current Scope
 
 - Preferences are player-specific, not server-wide.
