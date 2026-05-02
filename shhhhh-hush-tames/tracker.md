@@ -50,7 +50,7 @@ It is intentionally **practical** rather than asset-exhaustive:
 | ![Planned](https://img.shields.io/badge/Planned-6e7781) | Archaeopteryx | Standard | No | No | No | N/A | No | N/A | No | N/A | N/A | Shoulder pet |
 | ![Public](https://img.shields.io/badge/Public-2ea44f) | Argentavis | Standard | Yes | Yes | Yes | No | No | N/A | Yes | Yes | Yes |  |
 | ![Planned](https://img.shields.io/badge/Planned-6e7781) | Arthropluera | Standard | No | No | No | No | N/A | N/A | No | N/A | N/A |  |
-| ![Planned](https://img.shields.io/badge/Planned-6e7781) | Baryonyx | Standard | No | No | No | No | N/A | No | No | N/A | N/A |  |
+| ![Public](https://img.shields.io/badge/Public-2ea44f) | Baryonyx | Standard | Yes | Yes | Yes | No | N/A | No | No | Yes | Yes |  |
 | ![Planned](https://img.shields.io/badge/Planned-6e7781) | Basilosaurus | Standard | No | No | No | N/A | N/A | No | No | N/A | N/A |  |
 | ![Planned](https://img.shields.io/badge/Planned-6e7781) | Beelzebufo | Standard | No | No | No | No | N/A | No | No | N/A | N/A |  |
 | ![Planned](https://img.shields.io/badge/Planned-6e7781) | Brontosaurus | Standard | No | No | No | No | N/A | N/A | No | No | No |  |
@@ -62,12 +62,12 @@ It is intentionally **practical** rather than asset-exhaustive:
 | ![Planned](https://img.shields.io/badge/Planned-6e7781) | Daeodon | Standard | No | No | No | No | N/A | N/A | No | N/A | No |  |
 | ![Planned](https://img.shields.io/badge/Planned-6e7781) | Dilophosaur | Standard | No | No | No | No | N/A | N/A | No | No | No |  |
 | ![Planned](https://img.shields.io/badge/Planned-6e7781) | Dimetrodon | Standard | No | No | No | No | N/A | N/A | No | N/A | No |  |
-| ![Planned](https://img.shields.io/badge/Planned-6e7781) | Dimorphodon | Standard | No | No | No | N/A | No | N/A | No | No | No | Shoulder pet |
+| ![Public](https://img.shields.io/badge/Public-2ea44f) | Dimorphodon | Standard | Yes | Yes | Yes | N/A | No | N/A | Yes | Yes | Yes | Shoulder pet |
 | ![Planned](https://img.shields.io/badge/Planned-6e7781) | Diplocaulus | Standard | No | No | No | No | N/A | No | No | N/A | N/A |  |
 | ![Planned](https://img.shields.io/badge/Planned-6e7781) | Diplodocus | Standard | No | No | No | No | N/A | N/A | No | N/A | No |  |
 | ![Planned](https://img.shields.io/badge/Planned-6e7781) | Dire Bear | Standard | No | No | No | No | N/A | N/A | No | N/A | No |  |
 | ![Planned](https://img.shields.io/badge/Planned-6e7781) | Direwolf | Standard | No | No | No | No | N/A | N/A | No | N/A | No |  |
-| ![Planned](https://img.shields.io/badge/Planned-6e7781) | Dodo | Standard | No | No | No | No | N/A | N/A | No | No | No |  |
+| ![Public](https://img.shields.io/badge/Public-2ea44f) | Dodo | Standard | Yes | Yes | Yes | No | N/A | N/A | Yes | Yes | Yes |  |
 | ![Planned](https://img.shields.io/badge/Planned-6e7781) | Doedicurus | Standard | No | No | No | No | N/A | N/A | No | N/A | N/A |  |
 | ![Planned](https://img.shields.io/badge/Planned-6e7781) | Dung Beetle | Standard | No | No | No | No | N/A | N/A | No | N/A | N/A |  |
 | ![Planned](https://img.shields.io/badge/Planned-6e7781) | Dunkleosteus | Standard | No | No | No | N/A | N/A | No | No | N/A | N/A |  |
@@ -97,22 +97,22 @@ It is intentionally **practical** rather than asset-exhaustive:
 | ![Planned](https://img.shields.io/badge/Planned-6e7781) | Moschops | Standard | No | No | No | No | N/A | N/A | No | N/A | No |  |
 | ![Planned](https://img.shields.io/badge/Planned-6e7781) | Otter | Standard | No | No | No | No | N/A | No | No | N/A | No | Shoulder pet |
 | ![Planned](https://img.shields.io/badge/Planned-6e7781) | Oviraptor | Standard | No | No | No | No | N/A | N/A | No | No | No |  |
-| ![Planned](https://img.shields.io/badge/Planned-6e7781) | Ovis | Standard | No | No | No | No | N/A | N/A | No | N/A | No |  |
+| ![Public](https://img.shields.io/badge/Public-2ea44f) | Ovis | Standard | Yes | Yes | Yes | No | N/A | N/A | No | Yes | Yes |  |
 | ![Planned](https://img.shields.io/badge/Planned-6e7781) | Pachy | Standard | No | No | No | No | N/A | N/A | No | N/A | N/A |  |
 | ![Planned](https://img.shields.io/badge/Planned-6e7781) | Pachyrhinosaurus | Standard | No | No | No | No | N/A | N/A | No | N/A | N/A |  |
 | ![Planned](https://img.shields.io/badge/Planned-6e7781) | Paraceratherium | Standard | No | No | No | No | N/A | N/A | No | N/A | No |  |
-| ![Planned](https://img.shields.io/badge/Planned-6e7781) | Parasaur | Standard | No | No | No | No | N/A | N/A | No | No | No |  |
+| ![Public](https://img.shields.io/badge/Public-2ea44f) | Parasaur | Standard | Yes | Yes | Yes | No | N/A | N/A | Yes | Yes | Yes |  |
 | ![Planned](https://img.shields.io/badge/Planned-6e7781) | Pegomastax | Standard | No | No | No | No | N/A | N/A | No | N/A | N/A |  |
 | ![Planned](https://img.shields.io/badge/Planned-6e7781) | Pelagornis | Standard | No | No | No | N/A | No | N/A | No | N/A | No |  |
 | ![Planned](https://img.shields.io/badge/Planned-6e7781) | Phiomia | Standard | No | No | No | No | N/A | N/A | No | N/A | No |  |
 | ![Planned](https://img.shields.io/badge/Planned-6e7781) | Plesiosaur | Standard | No | No | No | N/A | N/A | No | No | N/A | N/A |  |
 | ![Planned](https://img.shields.io/badge/Planned-6e7781) | Procoptodon | Standard | No | No | No | No | N/A | N/A | No | N/A | No |  |
-| ![Planned](https://img.shields.io/badge/Planned-6e7781) | Pteranodon | Standard | No | No | No | N/A | No | N/A | No | N/A | N/A |  |
+| ![Public](https://img.shields.io/badge/Public-2ea44f) | Pteranodon | Standard | Yes | Yes | Yes | N/A | No | N/A | Yes | Yes | Yes |  |
 | ![Planned](https://img.shields.io/badge/Planned-6e7781) | Pulmonoscorpius | Standard | No | No | No | No | N/A | N/A | No | N/A | N/A |  |
 | ![Planned](https://img.shields.io/badge/Planned-6e7781) | Purlovia | Standard | No | No | No | No | N/A | N/A | No | N/A | N/A |  |
 | ![Planned](https://img.shields.io/badge/Planned-6e7781) | Quetzal | Standard | No | No | No | N/A | No | N/A | No | N/A | N/A |  |
 | ![Planned](https://img.shields.io/badge/Planned-6e7781) | Raptor | Standard | No | No | No | No | N/A | N/A | No | No | No |  |
-| ![Internal](https://img.shields.io/badge/Internal-d29922) | Rex | Standard | Yes | Yes | No | No | N/A | N/A | No | Yes | Yes |  |
+| ![Public](https://img.shields.io/badge/Public-2ea44f) | Rex | Standard | Yes | Yes | Yes | No | N/A | N/A | No | Yes | Yes |  |
 | ![Planned](https://img.shields.io/badge/Planned-6e7781) | Rhyniognatha | Standard | No | No | No | N/A | No | N/A | No | N/A | N/A |  |
 | ![Planned](https://img.shields.io/badge/Planned-6e7781) | Sabertooth | Standard | No | No | No | No | N/A | N/A | No | N/A | N/A |  |
 | ![Planned](https://img.shields.io/badge/Planned-6e7781) | Sarco | Standard | No | No | No | No | N/A | No | No | N/A | N/A |  |
@@ -127,7 +127,7 @@ It is intentionally **practical** rather than asset-exhaustive:
 | ![Planned](https://img.shields.io/badge/Planned-6e7781) | Troodon | Standard | No | No | No | No | N/A | N/A | No | N/A | N/A |  |
 | ![Planned](https://img.shields.io/badge/Planned-6e7781) | Tusoteuthis | Standard | No | No | No | N/A | N/A | No | No | N/A | N/A |  |
 | ![Planned](https://img.shields.io/badge/Planned-6e7781) | Woolly Rhino | Standard | No | No | No | No | N/A | N/A | No | N/A | No |  |
-| ![Planned](https://img.shields.io/badge/Planned-6e7781) | Yutyrannus | Standard | No | No | No | No | N/A | N/A | No | N/A | No |  |
+| ![Public](https://img.shields.io/badge/Public-2ea44f) | Yutyrannus | Standard | Yes | Yes | Yes | No | N/A | N/A | Yes | Yes | Yes |  |
 
 ## Official Tameables - Scorched Earth
 
@@ -143,9 +143,9 @@ It is intentionally **practical** rather than asset-exhaustive:
 | ![Planned](https://img.shields.io/badge/Planned-6e7781) | Rock Elemental | Standard | No | No | No | No | N/A | N/A | No | N/A | N/A |  |
 | ![Planned](https://img.shields.io/badge/Planned-6e7781) | Thorny Dragon | Standard | No | No | No | No | N/A | N/A | No | N/A | N/A |  |
 | ![Planned](https://img.shields.io/badge/Planned-6e7781) | Vulture | Standard | No | No | No | No | No | N/A | No | N/A | N/A | Shoulder-size flyer |
-| ![Planned](https://img.shields.io/badge/Planned-6e7781) | Wyvern | Fire | No | No | No | N/A | No | N/A | No | N/A | N/A | Raised from egg |
-| ![Planned](https://img.shields.io/badge/Planned-6e7781) | Wyvern | Lightning | No | No | No | N/A | No | N/A | No | N/A | N/A | Raised from egg |
-| ![Planned](https://img.shields.io/badge/Planned-6e7781) | Wyvern | Poison | No | No | No | N/A | No | N/A | No | N/A | N/A | Raised from egg |
+| ![Public](https://img.shields.io/badge/Public-2ea44f) | Wyvern | Fire | Yes | No | Yes | N/A | Partial | N/A | Yes | N/A | Yes | Raised from egg |
+| ![Public](https://img.shields.io/badge/Public-2ea44f) | Wyvern | Lightning | Yes | No | Yes | N/A | Partial | N/A | Yes | N/A | Yes | Raised from egg |
+| ![Public](https://img.shields.io/badge/Public-2ea44f) | Wyvern | Poison | Yes | No | Yes | N/A | Partial | N/A | Yes | N/A | Yes | Raised from egg |
 
 ## Official Tameables - Aberration / Aberration Ascended
 
@@ -173,7 +173,7 @@ It is intentionally **practical** rather than asset-exhaustive:
 | ![Planned](https://img.shields.io/badge/Planned-6e7781) | Gacha | Standard | No | No | No | No | N/A | N/A | No | N/A | No |  |
 | ![Planned](https://img.shields.io/badge/Planned-6e7781) | Gasbags | Standard | No | No | No | No | N/A | N/A | No | N/A | N/A |  |
 | ![Planned](https://img.shields.io/badge/Planned-6e7781) | Managarmr | Standard | No | No | No | No | No | N/A | No | N/A | N/A |  |
-| ![Planned](https://img.shields.io/badge/Planned-6e7781) | Snow Owl | Standard | No | No | No | N/A | No | N/A | No | N/A | No |  |
+| ![Public](https://img.shields.io/badge/Public-2ea44f) | Snow Owl | Standard | Yes | Yes | Yes | N/A | No | N/A | Yes | Yes | Yes |  |
 | ![Planned](https://img.shields.io/badge/Planned-6e7781) | Velonasaur | Standard | No | No | No | No | N/A | N/A | No | N/A | N/A |  |
 
 ## Official Tameables - Ragnarok
@@ -209,7 +209,7 @@ It is intentionally **practical** rather than asset-exhaustive:
 | ![Planned](https://img.shields.io/badge/Planned-6e7781) | Ceratosaurus | Standard | No | No | No | No | N/A | N/A | No | N/A | N/A | Additions Ascended creature |
 | ![Planned](https://img.shields.io/badge/Planned-6e7781) | Cryolophosaurus | Standard | No | No | No | No | N/A | N/A | No | N/A | N/A | Additions Ascended creature |
 | ![Planned](https://img.shields.io/badge/Planned-6e7781) | Deinosuchus | Standard | No | No | No | No | N/A | No | No | N/A | N/A | Additions Ascended creature |
-| ![Internal](https://img.shields.io/badge/Internal-d29922) | Deinotherium | Standard | Yes | Yes | Yes | No | N/A | N/A | No | N/A | N/A | Additions Ascended creature |
+| ![Public](https://img.shields.io/badge/Public-2ea44f) | Deinotherium | Standard | Yes | Yes | Yes | No | N/A | N/A | No | N/A | N/A | Additions Ascended creature |
 | ![Planned](https://img.shields.io/badge/Planned-6e7781) | Helicoprion | Standard | No | No | No | N/A | N/A | No | No | N/A | N/A | Additions Ascended creature |
 | ![Planned](https://img.shields.io/badge/Planned-6e7781) | Shastasaurus | Standard | No | No | No | N/A | N/A | No | No | N/A | N/A | Additions Ascended creature |
 | ![Planned](https://img.shields.io/badge/Planned-6e7781) | Xiphactinus | Standard | No | No | No | N/A | N/A | No | No | N/A | N/A | Additions Ascended creature |
@@ -218,7 +218,7 @@ It is intentionally **practical** rather than asset-exhaustive:
 
 | State | Creature | Variant | DT | Idle | Vocal | MoveGround | MoveFly | MoveWater | Eat | LayEgg | Cuddle | Notes |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---|
-| ![Planned](https://img.shields.io/badge/Planned-6e7781) | Cat | Standard | No | No | No | No | N/A | N/A | No | N/A | No | Official multi-map creature |
+| ![Public](https://img.shields.io/badge/Public-2ea44f) | Cat | Standard | Yes | No | No | No | N/A | N/A | No | N/A | Yes | Official multi-map creature |
 | ![Planned](https://img.shields.io/badge/Planned-6e7781) | Gigantoraptor | Standard | No | No | No | No | N/A | N/A | No | No | No | Official multi-map creature |
 
 ## Official Tameables - Aberrant Variants
