@@ -14,7 +14,6 @@ It is intended for servers or players who want more control over Drakeling XP be
 - Configurable cooldown percentages for Breath, Biome Boost, and Gift of Fortune.
 - Optional buff info display when stored XP is granted.
 - Optional Hoard Chest disabling when stored XP is awarded.
-- Shoulder menu option to toggle all Drakeling vocal sounds on or off while carried.
 
 ## Behavior / Scope
 
@@ -30,7 +29,6 @@ See [Configuration](./configuration.md).
 
 ## Known bugs
 
-- When the Drakeling is on the shoulder and muted, there is still one idle sound out of five that triggers from time to time.
 - Even when `DisableHoardChests` is set to `True`, the HUD may still indicate that XP and a Dragon Key will be awarded. This is only a visual message; no chest/key is actually granted. The message appears to be hardcoded and has not been removed without remapping the Drakeling.
 
 ## Future features
