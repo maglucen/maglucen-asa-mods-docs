@@ -2,13 +2,13 @@
 
 ![Golem Nemesis logo](./assets/logo.png)
 
-**Golem Nemesis** makes supported anti-golem attackers deal more meaningful damage to Rock Golems and any creature that inherits from them, with direct and parent-based whitelist or blacklist overrides.
+**Golem Nemesis** makes stone or metal gatherers deal more meaningful damage to Rock Golems and any creature that inherits from them, with direct and parent-based whitelist or blacklist overrides.
 
 ## Overview
 
 This mod is aimed at Rock Golems and compatible child classes such as Chalk Golems and Ice Golems.
 
-By default, the mod uses supported `DamageType` detection to decide which attackers should deal boosted anti-golem damage. Server owners can override that behavior with exact and parent-based white or blacklists.
+By default, the mod uses supported `DamageType` detection to decide which stone or metal gatherers should deal boosted damage to Rock Golems. Server owners can override that behavior with exact and parent-based white or blacklists.
 
 By default, Rock Golems heavily reduce incoming damage from most sources. This mod restores qualifying attackers to a normal-damage baseline against Rock Golems and then applies the configured percentage on top of that baseline.
 
@@ -23,7 +23,7 @@ If `bUseDamageTypeDetection=false`, the base allowed attackers fall back to the 
 
 ## Affected attackers
 
-- Any attacker that qualifies through the active `DamageType` detection rules
+- Stone or metal gatherers that qualify through the active `DamageType` detection rules
 - Exact whitelist entries configured by the server owner
 - Child classes matched through parent whitelist entries
 
