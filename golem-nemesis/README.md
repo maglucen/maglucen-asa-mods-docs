@@ -10,9 +10,9 @@ This mod is aimed at Rock Golems and compatible child classes such as Chalk Gole
 
 By default, the mod uses supported `DamageType` detection to decide which attackers should deal boosted anti-golem damage. Server owners can override that behavior with exact and parent-based white or blacklists.
 
-Wildcard's default anti-golem damage is often effectively much lower than normal damage against Rock Golems. This mod restores qualifying attackers to a normal-damage baseline and then applies the configured percentage on top of that baseline.
+By default, Rock Golems heavily reduce incoming damage from most sources. This mod restores qualifying attackers to a normal-damage baseline against Rock Golems and then applies the configured percentage on top of that baseline.
 
-If `bUseDamageTypeDetection=false`, the base allowed attackers fall back to the classic hardcoded set: Doedicurus, Ankylosaurus, and Dunkleosteus.
+If `bUseDamageTypeDetection=false`, the base allowed attackers fall back to the classic hardcoded set: Doedicurus, Ankylosaurus, and Dunkleosteus. Whitelist and blacklist rules still apply on top of that base set.
 
 ## Affected creatures
 
@@ -37,7 +37,7 @@ See [Configuration](./configuration.md) for the full priority order, available s
 
 ## Changelog
 
-Release changelogs are available on the mod's CurseForge page.
+Release changelogs are available on [CurseForge](https://www.curseforge.com/ark-survival-ascended/mods/golem-nemesis).
 
 ## Community
 
