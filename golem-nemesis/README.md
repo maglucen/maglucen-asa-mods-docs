@@ -8,22 +8,11 @@
 
 This mod is aimed at Rock Golems and compatible child classes such as Chalk Golems and Ice Golems.
 
-By default, the mod uses supported `DamageType` detection to decide which attackers should deal boosted anti-golem damage.
-
-Server owners can then refine that behavior with:
-
-- exact dino whitelist entries
-- exact dino blacklist entries
-- parent whitelist entries
-- parent blacklist entries
+By default, the mod uses supported `DamageType` detection to decide which attackers should deal boosted anti-golem damage. Server owners can override that behavior with exact and parent-based white or blacklists.
 
 Wildcard's default anti-golem damage is often effectively much lower than normal damage against Rock Golems. This mod restores qualifying attackers to a normal-damage baseline and then applies the configured percentage on top of that baseline.
 
-If `bUseDamageTypeDetection=false`, the base allowed attackers fall back to the classic hardcoded set:
-
-- Doedicurus
-- Ankylosaurus
-- Dunkleosteus
+If `bUseDamageTypeDetection=false`, the base allowed attackers fall back to the classic hardcoded set: Doedicurus, Ankylosaurus, and Dunkleosteus.
 
 ## Affected creatures
 
@@ -38,32 +27,13 @@ If `bUseDamageTypeDetection=false`, the base allowed attackers fall back to the 
 - Exact whitelist entries configured by the server owner
 - Child classes matched through parent whitelist entries
 
-When `bUseDamageTypeDetection=false`, the default hardcoded base attackers are:
-
-- Doedicurus
-- Ankylosaurus
-- Dunkleosteus
-
 ## Priority rules
 
-When multiple rules could apply to the same attacker, the mod resolves them in this order:
-
-1. Exact blacklist
-2. Exact whitelist
-3. Parent blacklist
-4. Parent whitelist
-5. Base detection
-
-This means:
-
-- direct lists have priority over parent lists
-- blacklist has priority over whitelist at the same level
-- an exact whitelist entry can override a parent blacklist entry
-- an exact blacklist entry cannot be overridden by any whitelist
+Direct rules override parent rules, and blacklist rules override whitelist rules at the same level.
 
 ## Configuration
 
-See [Configuration](./configuration.md) for the available settings, accepted class formats, and examples.
+See [Configuration](./configuration.md) for the full priority order, available settings, accepted class formats, and examples.
 
 ## Changelog
 
