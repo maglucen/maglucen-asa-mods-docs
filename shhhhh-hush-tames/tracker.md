@@ -168,7 +168,7 @@ It is intentionally **practical** rather than asset-exhaustive:
 
 | State | Creature | Variant | DT | Idle | Vocal | MoveGround | MoveFly | MoveWater | Eat | LayEgg | Cuddle | Notes |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---|
-| ![Planned](https://img.shields.io/badge/Planned-6e7781) | Armadoggo | Standard | No | No | No | No | N/A | N/A | No | N/A | No | Bob's Tall Tales creature |
+| ![Public](https://img.shields.io/badge/Public-2ea44f) | Armadoggo | Standard | Yes | Yes | Yes | No | N/A | N/A | Yes | N/A | Yes | Bob's Tall Tales creature |
 | ![Planned](https://img.shields.io/badge/Planned-6e7781) | Enforcer | Standard | No | No | No | No | N/A | N/A | No | N/A | N/A |  |
 | ![Planned](https://img.shields.io/badge/Planned-6e7781) | Gacha | Standard | No | No | No | No | N/A | N/A | No | N/A | No |  |
 | ![Planned](https://img.shields.io/badge/Planned-6e7781) | Gasbags | Standard | No | No | No | No | N/A | N/A | No | N/A | N/A |  |
